@@ -29,7 +29,7 @@ body {
 
 .red {
 	display: flex;
-	background-image: url("images/b.png");
+	background-image: url("images/b.PNG");
 	background-size: 100% 100;
 	height: 4.269%;
 	width: 100%;
